@@ -1,6 +1,6 @@
 # CgsID
 
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 
 A simple tool to compress and uncompress CgsID from Burnout Paradise.
 
