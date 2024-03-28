@@ -6,13 +6,16 @@ A simple tool to compress and uncompress CgsID from Burnout Paradise.
 
 
 ## Usage
-Compressing:
+```
+python .\src\main.py
+```
+### Compressing:
 ```
 [c]ompress [u]ncompress ? c
 String: PDSHR01
 A56CA6E6C9960000
 ```
-Uncompressing:
+### Uncompressing:
 ```
 [c]ompress [u]ncompress ? u
 ID: A56CA6E6C9960000
